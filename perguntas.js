@@ -1,7 +1,7 @@
 criaCartao(
     'Biologia',
     'O que é a primeira lei de Mendel?',
-    'Todas as características de um indivíduosão determinadas por genes que separam-se, durante a formação dos gametas, sendo que, assim, pai e mãetransmitem apenas um gene para seus descendentes.'
+    'Todas as características de um indivíduosão determinadas por genes que separam-se, durante a formação dos gametas.'
 )
 
 criaCartao(
@@ -11,9 +11,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Biologia',
+    'Biologiao',
     'Quais são as leis de lamarck?',
-    'Lei da herança dos caracteres adquiridos”, e à “Lei do uso e desuso”'
+    'Lei da herança dos caracteres adquiridos”, e à “Lei do uso e desuso'
 )
 
 criaCartao(
@@ -25,7 +25,7 @@ criaCartao(
 criaCartao(
     'Biologia',
     'Qual a diferença entre um gene dominante e um gene recessivo?',
-    'Se a expressão de um traço requer apenas uma cópia do gene (um alelo), este traço é considerado dominante. Se a expressão de um traço requer 2 cópias de um gene (2 alelos), este traço é considerado recessivo.'
+    '(um alelo), este traço é considerado dominante. (2 alelos), este traço é considerado recessivo.'
 )
 
 criaCartao(
